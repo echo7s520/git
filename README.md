@@ -11,7 +11,7 @@
 | `git reflog`                           | 查看历史记录   |
 | `git reset --hard 版本号`              | 版本穿梭       |
 
-![](d:\Users\i\Desktop\xx\笔记\相关图\git层级.PNG)
+![](https://github.com/echo7s520/git/blob/main/images/git%E5%B1%82%E7%BA%A7.PNG)
 
 ------
 
