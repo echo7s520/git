@@ -66,7 +66,7 @@ clone 克隆：==访问用户== 从代码托管中心下载到本地库
 
 * ## 1  初始化本地库
 
-![](d:\Users\i\Desktop\xx\笔记\相关图\git01.png)
+![](https://github.com/echo7s520/git/blob/main/images/git01.png)
 
 
 
@@ -74,10 +74,10 @@ clone 克隆：==访问用户== 从代码托管中心下载到本地库
 
 * ## 2 添加到暂存区
 
-![](d:\Users\i\Desktop\xx\笔记\相关图\git02.png)
+![](https://github.com/echo7s520/git/blob/main/images/git02.png)
 
 * ## 3 提交到本地库
 
-![](d:\Users\i\Desktop\xx\笔记\相关图\git03.png)
+![](https://github.com/echo7s520/git/blob/main/images/git03.png)
 
-![](d:\Users\i\Desktop\xx\笔记\相关图\git04.png)
+![](https://github.com/echo7s520/git/blob/main/images/git04.png)
